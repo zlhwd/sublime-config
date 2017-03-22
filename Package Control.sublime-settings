@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"SideBarEnhancements",
+		"Emmet",
+		"Git",
+		"LiveReload",
+		"Package Control",
+		"Sass",
+		"SublimeREPL"
+		// "SublimeCodeIntel",
+		// "SyncedSideBar",
+	]
+}
